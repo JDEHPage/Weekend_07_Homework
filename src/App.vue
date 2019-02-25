@@ -62,7 +62,7 @@ export default {
 
 
 .container {
- background-color: rgba(227,235,242,0.1);
+ background-color: rgba(227,235,242,0.7);
  display: grid;
  grid-template-columns: 230px 150px 150px 20% 20% 20%;
  grid-template-rows: 20% 20% 20% 20% 20% 20%;
